@@ -1,0 +1,11 @@
+
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºËÐ­
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(€œ’üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯ûÅ]
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Þ–'

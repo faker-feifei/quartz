@@ -1,0 +1,90 @@
+
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+[javascript:UnusedVariable"8Remove the declaration of the unused 'col1Val' variable.(¥óš’
+Yjavascript:S1854"?Remove this useless assignment to local variable "isNoCloneObj"( ì¦¨
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(îóÙ„úÿÿÿÿ
+cjavascript:S2814"DRename "i" as this name is already used in declaration at line 2931.(ÎâØûÿÿÿÿ
+]javascript:S2814"CRename "n" as this name is already used in declaration at line 686.(³¬õÛ
+]javascript:S1854">Remove this useless assignment to local variable "integerPart"(¿ãÚÜúÿÿÿÿ
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(–Ä¨²üÿÿÿÿ
+Zjavascript:S1854";Remove this useless assignment to local variable "showText"(ëÃëşÿÿÿÿ
+h javascript:DuplicatePropertyName">Rename or remove duplicate property name 'adjustInstructDate'.(«å¾Ê
+kjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(£·Øˆüÿÿÿÿ
+Rjavascript:S1854"8Remove this useless assignment to local variable "_this"(É÷ìŸ
+Ujavascript:S1854";Remove this useless assignment to local variable "negative"(åèŸ•
+ajavascript:UnusedVariable"9Remove the declaration of the unused 'showText' variable.(ëÃëşÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(úÙÿÖøÿÿÿÿ
+ijavascript:S2814"JRename "treeNode" as this name is already used in declaration at line 112.(„“Ú¹úÿÿÿÿ
+`javascript:UnusedVariable"=Remove the declaration of the unused 'isNoCloneObj' variable.( ì¦¨
+hjavascript:S2814"IRename "cloneObj" as this name is already used in declaration at line 52.(íŞêÖùÿÿÿÿ
+†javascript:S2583"lChange this condition so that it does not always evaluate to "true"; some subsequent code is never executed.( •«½
+^javascript:S2814"DRename "re" as this name is already used in declaration at line 509.(£áÔÂ
+Yjavascript:UnusedVariable"6Remove the declaration of the unused '_this' variable.(É÷ìŸ
+javascript:S2692"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(ò£’Óüÿÿÿÿ
+Gjavascript:UnusedVariable"$Remove unused function 'checkTable'.(úôº‰
+cjavascript:S2819"IMake sure this cross-domain message is being sent to the intended domain.(Ê§ì
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 1011.(Èß‹µ
+zjavascript:S2703"`Add the "let", "const" or "var" keyword to this declaration of "numberPart" to make it explicit.(àÂª¯
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+@javascript:S905""Refactor or remove this statement.(‘ûòËøÿÿÿÿ
+~javascript:S1871"dEither merge this branch with the identical one on line "2090" or change one of the implementations.(å¥‡
+Yjavascript:UnusedVariable"6Remove the declaration of the unused '_this' variable.(É÷ìŸ
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+Mjavascript:S3782"4Change this argument to the documented type: Number.(Å»‰l
+fjavascript:S2814"LRename "tableData" as this name is already used in declaration at line 2468.(¨Œš¢
+sjavascript:S4143"YVerify this is the index that was intended; 'cascaderValue' was already set on line 2902.(÷î¹ƒ
+djavascript:S2814"JRename "col1Val" as this name is already used in declaration at line 2514.(¥óš’
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+^javascript:UnusedVariable";Remove the declaration of the unused 'seperator2' variable.(Åşş©
+hjavascript:S2814"IRename "cloneObj" as this name is already used in declaration at line 39.(íŞêÖùÿÿÿÿ
+Ojavascript:S1854"6Remove this useless assignment to local variable "obj"(Î½µ
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 3041.(§øÿŠ
+]javascript:UnusedVariable":Remove the declaration of the unused 'numberArc' variable.(¯€êõ
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+~javascript:S1871"dEither merge this branch with the identical one on line "2265" or change one of the implementations.(óÌ÷
+Vjavascript:S1854"7Remove this useless assignment to local variable "name"(ÅàÉ¿ıÿÿÿÿ
+gjavascript:Eval"IReview the arguments of this "eval" call to make sure they are validated.(ƒÒÈÑüÿÿÿÿ
+Ajavascript:UnreachableCode"Remove this unreachable code.(Ô˜Ÿ¾
+cjavascript:S2814"IRename "treeNode" as this name is already used in declaration at line 87.(äÇœ¯
+` javascript:DuplicatePropertyName"1Rename or remove duplicate property name 'apply'.(äàÏ“şÿÿÿÿ
+cjavascript:S2814"DRename "i" as this name is already used in declaration at line 1424.( ÈË¢ÿÿÿÿÿ
+;javascript:S905""Refactor or remove this statement.(ÄÄ†
+\javascript:UnusedVariable"4Remove the declaration of the unused 'row' variable.(¸şŞÍùÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(”Ğ€øÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+;javascript:S905""Refactor or remove this statement.(Ö¡‡ˆ
+:javascript:S905""Refactor or remove this statement.(â©ˆ
+^javascript:S2814"DRename "i" as this name is already used in declaration at line 2879.(­¢¤ê
+bjavascript:S2814"CRename "i" as this name is already used in declaration at line 685.(è ¹ûÿÿÿÿ
+Yjavascript:UnusedVariable"6Remove the declaration of the unused '_this' variable.(É÷ìŸ
+;javascript:S905""Refactor or remove this statement.(Ö¡‡ˆ
+mjavascript:S2814"NRename "integerPart" as this name is already used in declaration at line 2369.(¿ãÚÜúÿÿÿÿ
+Yjavascript:UnusedVariable"6Remove the declaration of the unused '_this' variable.(É÷ìŸ
+cjavascript:S2814"DRename "j" as this name is already used in declaration at line 2482.(¥ë«äûÿÿÿÿ
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(ñ°óÑ
+ejavascript:UnusedVariable"=Remove the declaration of the unused 'clearRowSpan' variable.(óÊÆàşÿÿÿÿ
+Rjavascript:S1854"8Remove this useless assignment to local variable "_this"(É÷ìŸ
+^javascript:S2814"DRename "j" as this name is already used in declaration at line 2450.(Õï˜Ô
+bjavascript:Eval"IReview the arguments of this "eval" call to make sure they are validated.(©Â„Ó
+jjavascript:S2814"KRename "cloneObj" as this name is already used in declaration at line 1419.(íŞêÖùÿÿÿÿ
+e javascript:DuplicatePropertyName"6Rename or remove duplicate property name 'consoleObj'.(¿€É‰ùÿÿÿÿ
+[javascript:UnusedVariable"8Remove the declaration of the unused 'col1Val' variable.(¥óš’
+Wjavascript:S1854"=Remove this useless assignment to local variable "seperator2"(Åşş©
+}javascript:S4165"cReview this useless assignment: "valid" already holds the assigned value along all execution paths.(è¬£‡
+Rjavascript:S1854"8Remove this useless assignment to local variable "_this"(É÷ìŸ
+;javascript:S1116"Remove this empty statement.(˜óüÿÿÿÿ
+;javascript:S905""Refactor or remove this statement.(Å”Ì
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+ojavascript:S2814"PRename "columnOptions" as this name is already used in declaration at line 2365.(İÆÌúÿÿÿÿ
+;javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+gjavascript:S2814"NRename "valueLength" as this name is already used in declaration at line 2631.(Õê~
+fjavascript:S2589"LRefactor this code so that this expression does not always evaluate to true.(Şê¢•
+6javascript:S1116"Remove this empty statement.(ÄÄ†
+;javascript:S905""Refactor or remove this statement.(Ö¡‡ˆ
+Hjavascript:EmptyBlock")Either remove or fill this block of code.(–ÄÊ
+Rjavascript:S1854"8Remove this useless assignment to local variable "_this"(É÷ìŸ
+~javascript:S1871"dEither merge this branch with the identical one on line "2272" or change one of the implementations.(ñ°óÑ
+^ javascript:DuplicatePropertyName"4Rename or remove duplicate property name 'loadData'.(ñ¬í¨
+ljavascript:S2589"MRefactor this code so that this expression does not always evaluate to false.(ùõŞœüÿÿÿÿ
+;javascript:S905""Refactor or remove this statement.(õ½†

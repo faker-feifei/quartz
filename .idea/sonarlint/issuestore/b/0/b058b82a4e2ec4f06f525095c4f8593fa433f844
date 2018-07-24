@@ -1,0 +1,5 @@
+
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(Ï«¡Ïüÿÿÿÿ
+d squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(½ñÈ
+e squid:LabelsShouldNotBeUsedCheck";Refactor the code to remove this label and the need for it.(ªÒËƒ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è…µôüÿÿÿÿ

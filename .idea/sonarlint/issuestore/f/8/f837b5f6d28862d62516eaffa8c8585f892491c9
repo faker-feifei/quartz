@@ -1,0 +1,7 @@
+
+usquid:S3008+"RRename this field "JOB_LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õîë½ÿÿÿÿÿ8ÈÉéÒÃ,
+hsquid:S1192;"JDefine a constant instead of duplicating this literal "groupName" 3 times.(ÖåúŸ8ÈÉéÒÃ,
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(›ÕŠ8ÈÉéÒÃ,
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Œ…Ğ£şÿÿÿÿ8ÈÉéÒÃ,
+osquid:S3776V"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(öŒ!8ÈÉéÒÃ,
+lsquid:S1192<"IDefine a constant instead of duplicating this literal "taskName" 3 times.(Ö›ÖÒúÿÿÿÿ8ÈÉéÒÃ,

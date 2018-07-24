@@ -1,0 +1,11 @@
+
+zsquid:S3008"`Rename this field "EXPIRE_AFTER_ONE_HOUR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öàôƒÿÿÿÿÿ
+usquid:S3008"[Rename this field "CHANNEL_MSGCOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•®÷“üÿÿÿÿ
+psquid:S3008"[Rename this field "CHANNEL_MSG_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‘¨Œ
+Usquid:S1444";Make this "public static EXPIRE_AFTER_ONE_HOUR" field final(Öàôƒÿÿÿÿÿ
+Psquid:S1444"6Make this "public static CHANNEL_MSGCOUNT" field final(•®÷“üÿÿÿÿ
+Ksquid:S1444"6Make this "public static CHANNEL_MSG_DATA" field final(Á‘¨Œ
+’"squid:ClassVariableVisibilityCheck"aMake EXPIRE_AFTER_ONE_HOUR a static final constant or non-public and provide accessors if needed.(Öàôƒÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"\Make CHANNEL_MSGCOUNT a static final constant or non-public and provide accessors if needed.(•®÷“üÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"\Make CHANNEL_MSG_DATA a static final constant or non-public and provide accessors if needed.(Á‘¨Œ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ

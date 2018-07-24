@@ -1,0 +1,3 @@
+
+²%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ú˜äÌøÿÿÿÿ8šèèÐÃ,
+±%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'org.quartz.SchedulerException', as it cannot be thrown from method's body.(ú˜äÌøÿÿÿÿ8šèèÐÃ,
